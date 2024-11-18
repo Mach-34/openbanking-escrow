@@ -1,0 +1,9 @@
+{
+  "name": "open_bank_contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aztec/noir-contracts.js": "^0.62.0"
+  }
+}
